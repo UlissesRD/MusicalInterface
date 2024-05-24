@@ -17,11 +17,11 @@ If you don't have an IDE, you can choose one according to your preference, but I
 
 ### Operation⚙️
 
-When you Run te application it will open a web page.
+When you run the application, it will open a web page.
 
-That web page has 9 buttons with 9 different songs, that you can play it pushing it down with your mouse click or using TAB to select the button you want and pressing SPace ou ENter to play it.
+That web page has 9 buttons, each with a different song. You can play a song by clicking the button with your mouse or by using the TAB key to select the button you want and pressing SPACE or ENTER to play it.
 
-It is a simple application, but vry usuful to learn a bit more about JavaScript, HTML ans CSS.
+It is a simple application, but very useful for learning a bit more about JavaScript, HTML, and CSS.
 
 ### Contribution 🤝🏽
 
