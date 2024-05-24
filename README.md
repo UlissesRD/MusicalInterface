@@ -2,14 +2,7 @@
 
 The program is a musical interface that has some buttons, and each one of them plays a different song that is written on it.
 
-## Prerequisites 🔧
-
-The project was built using version 19.0.2 of the Java SE Development Kit from Oracle.
-
-It's worth noting that this project was developed and tested on the Windows operating system.
-
-If you don't have Java installed, please visit the Oracle website for installation:
-https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html
+## Helping Tool 🔧
 
 If you don't have an IDE, you can choose one according to your preference, but I recommend one of these two:
 - IntelliJ: https://www.jetbrains.com/pt-br/idea/download/?section=windows
